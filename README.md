@@ -5,4 +5,11 @@ for the task of predicting Pneumonia using Human Chest X-rays.
 
 ![A test image](images/dataset%20image.PNG)
 
-This task uses a ResNet Architecture for the classifier model and a pytorch backend. 
+This task uses a ResNet Architecture for the classifier model and a pytorch backend.
+
+Few of the model Predictions are shown below
+
+![pred_1](images/pred_1.PNG)
+![pred_2](images/pred_2.PNG)
+![pred_3](images/pred_3.PNG)
+![pred_4](images/pred_4.PNG)
